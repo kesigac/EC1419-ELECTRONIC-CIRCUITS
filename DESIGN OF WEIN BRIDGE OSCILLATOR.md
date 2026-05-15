@@ -14,12 +14,23 @@
 
 
 ## Tabulation
+CALCULATION:
+f=1/2*3.14*rc
+f=1/2*3.14*100*0.01*10^-6
+f=1/2*3.14*1000*0.01*10^-6
+f=1/2*3.14*100000*10^-8
+f=1/2*3.14*10^-3
+2*3.14 = 6.283
+f=1/0.006283
+f=159.2HZ
+f=159HZ  
 
-## Graph
+## Graph<img width="1600" height="379" alt="image" src="https://github.com/user-attachments/assets/820d69d7-ded1-4704-a7a3-79b28589f59c" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+Practical frequency of Oscillation =159HZ
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation =588HZ
