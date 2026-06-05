@@ -8,7 +8,11 @@
 
 
 # Tabulation with readings
+<img width="570" height="687" alt="image" src="https://github.com/user-attachments/assets/4590d3f0-2353-4551-98b0-06b7ef0cd803" />
+<img width="720" height="590" alt="image" src="https://github.com/user-attachments/assets/4cd18392-7fa3-4363-a505-8a6e5f27c7f4" />
 
 ## Semilog plotted Graph
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+RESULT:
+The common source amplifier was bandwidth of the amplifier 100khz gain bandwidth product 217.48 khz
