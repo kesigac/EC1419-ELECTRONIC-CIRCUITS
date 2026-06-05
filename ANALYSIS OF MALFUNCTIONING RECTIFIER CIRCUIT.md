@@ -7,6 +7,7 @@
 ## ATTACH THE CORRECT CIRCUIT
 
 ## GRAPHS
+<img width="683" height="898" alt="image" src="https://github.com/user-attachments/assets/3fb68eeb-1a21-492e-af95-c667eeedc5dc" />
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
